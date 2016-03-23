@@ -1,0 +1,10 @@
+wirelessmode=0
+#ssid=124
+ssid=jackyliu
+ssidvisible=0
+vlanid=0
+secmod=0
+authmod=0
+seckey=12345678
+radiusip=0.0.0.0
+radiusport=0
